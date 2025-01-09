@@ -40,7 +40,6 @@ To perform exploratory data analysis (EDA) on our dataset.
 To pre-process data before applying machine learning model to the dataset.
 To apply machine learning models that can predict if an individual’s application for a credit card will be accepted or not.
 
-Conclusion
-Performed various Machine Learning Algorithms among them KNN is performing well in terms of predicting my class 1, which is my class of importance where I want the model to be predict precisely in terms of rest of the class.
+
 
 
